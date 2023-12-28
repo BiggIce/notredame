@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Église Notre Dame</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url('https://mcdn.wallpapersafari.com/medium/33/57/fUuo4W.jpg');
+            background-size: cover;
+            background-position: center;
+            color: #ffffff;
+        }
+
+        header {
+            background-color: rgba(66, 133, 244, 0.8);
+            color: #ffffff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        nav {
+            background-color: rgba(51, 51, 51, 0.8);
+            color: #ffffff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        nav a {
+            color: #ffffff;
+            text-decoration: none;
+            padding: 1em;
+            margin: 0 1em;
+        }
+
+        section {
+            padding: 2em;
+            text-align: center;
+        }
+
+        section img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 1em;
+        }
+
+        footer {
+            background-color: rgba(66, 133, 244, 0.8);
+            color: #ffffff;
+            text-align: center;
+            padding: 1em;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Église Notre Dame</h1>
+    </header>
+
+    <nav>
+        <a href="#accueil">Accueil</a>
+        <a href="#histoire">Histoire</a>
+        <a href="#photos">Photos</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="accueil">
+        <h2>Bienvenue à l'Église Notre Dame</h2>
+        <img src="https://wallpapersafari.com/image/notre-dame-wallpaper-for-kindle.jpg" alt="Accueil Image">
+        <p>Découvrez la beauté et l'histoire de notre église. Située au cœur de la ville, l'Église Notre Dame est un lieu de culte emblématique qui remonte à plusieurs siècles. Chaque pierre de cet édifice raconte une histoire unique, et chaque vitrail offre une vue magnifique sur notre histoire religieuse et culturelle.</p>
+    </section>
+
+    <section id="histoire">
+        <h2>Notre Histoire</h2>
+        <img src="https://wallpapersafari.com/image/desktop-backgrounds-paris-notre-dame.jpg" alt="Histoire Image 1">
+        <img src="" alt="Histoire Image 2">
+        <p>Plongez dans notre histoire fascinante qui s'étend sur des générations. L'Église Notre Dame a traversé des époques tumultueuses, mais elle est restée un symbole de foi, d'espoir et de communauté. Les magnifiques fresques et sculptures qui ornent notre église témoignent de notre engagement envers la préservation de notre riche patrimoine spirituel.</p>
+    </section>
+
+    <section id="photos">
+        <h2>Photos</h2>
+        <img src="https://wallpapersafari.com/image/notre-dame-hd-wallpaper.jpg" alt="Photo 1">
+        <img src="https://wallpapersafari.com/image/notre-dame-cathedral-wallpaper.jpg" alt="Photo 2">
+        <img src="https://wallpapersafari.com/image/notre-dame-football-background-wallpaper.jpg" alt="Photo 3">
+        <p>Explorez notre galerie de photos pour voir la splendeur de l'Église Notre Dame. Chaque image capture la grandeur architecturale de notre édifice, les détails artistiques de nos vitraux et l'atmosphère sereine qui règne dans notre enceinte. Nous invitons chacun à partager ces moments inoubliables avec nous.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contactez-nous</h2>
+        <p>N'hésitez pas à nous contacter pour plus d'informations sur l'Église Notre Dame. Que vous soyez un visiteur curieux, un fidèle assidu ou un passionné d'histoire, nous sommes là pour répondre à vos questions et vous accueillir chaleureusement.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Église Notre Dame. Tous droits réservés.</p>
+    </footer>
+
+</body>
+</html>
